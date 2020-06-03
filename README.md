@@ -2,4 +2,6 @@
 
 clone this git and go into the folder then run;
 
-`chmod +x heartbeatfirststartup.sh`
+`chmod +x FIRSTRUN.sh`
+
+then `bash FIRSTRUN.sh`
